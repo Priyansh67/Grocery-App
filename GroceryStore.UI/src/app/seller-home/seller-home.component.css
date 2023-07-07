@@ -1,0 +1,29 @@
+.product{
+    margin: 15px;
+    padding: 30px;
+    min-width: 400px;
+}
+
+.searchbar{
+    width: 70%;
+}
+
+.categoryList{
+
+}
+
+.backToList{
+    margin-left: 25%;
+}
+
+
+
+@media only screen and (max-width: 400px){
+    .backToList{
+        margin-left: 0;
+    }
+
+    .searchbar{
+        width: 50%;
+    }
+}

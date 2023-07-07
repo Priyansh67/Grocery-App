@@ -1,0 +1,90 @@
+<h3 style="text-align: center; margin-top: 20px;">Add New Product</h3>
+
+<div class="center custom-cls">
+     
+    <form #product="ngForm" (ngSubmit)="addProduct(product.value)">
+        <div class="form-group">
+            <label >Product Name</label>
+            <input type="text" maxlength="100" #productName="ngModel" class="form-control" required ngModel name="productName"  placeholder="Enter Product Name">
+           
+          </div>
+          <div class="invalidInput" *ngIf="productName.invalid && productName.touched ">
+
+            Product name is required and maximum length can be 100 only.
+          </div>
+    
+          <div class="form-group">
+            <label >Product Description</label>
+            <input type="text" class="form-control" #productDescription="ngModel" maxlength="255" required ngModel name="productDescription"  placeholder="Enter Product Description">
+           
+          </div>
+          <div class="invalidInput" *ngIf="productDescription.invalid && productDescription.touched ">
+
+            Product Description is required and maximum length can be 255 only.
+          </div>
+
+          <div class="form-group">
+            <label >Product Category</label>
+            <input type="text" class="form-control" #pCategory="ngModel" maxlength="100" required ngModel name="productCategory"  placeholder="Enter Product Category">
+           
+          </div>
+          <div class="invalidInput" *ngIf="pCategory.invalid && pCategory.touched ">
+
+            Product Category is required and maximum length can be 100 only.
+          </div>
+
+          <div class="form-group">
+            <label >Available Quantity</label>
+            <input type="number" required class="form-control" #pQuantity="ngModel" maxlength="8" ngModel name="productQuantity"  placeholder="Enter Product Quantity">
+           
+          </div>
+          <div class="invalidInput" *ngIf="pQuantity.invalid && pQuantity.touched ">
+
+            Product Quantity is required and can be numeric only.
+          </div>
+
+          <div class="form-group">
+            <label >Product Image</label>
+            <input type="text" #pImage="ngModel"  required  (change)="getFile($event)" class="form-control" ngModel name="productImage"  placeholder="Enter product Image Link here">
+           
+          </div>
+          <div class="invalidInput" *ngIf="pImage.invalid && pImage.touched ">
+
+            Product Image Link is required.
+          </div>
+
+          <div class="form-group">
+            <label >Price</label>
+            <input type="number" #pPrice="ngModel" required   class="form-control" ngModel name="productPrice"  placeholder="Product Price">
+           
+          </div>
+          <div class="invalidInput" *ngIf="pPrice.invalid && pPrice.touched ">
+
+            Product Price is required and can be of decimal only.
+          </div>
+
+          <div class="form-group">
+            <label >Discount</label>
+            <input type="number"   class="form-control" #pDiscount="ngModel" ngModel name="productDiscount"  placeholder="Product Discount">
+           
+          </div>
+          <div class="invalidInput" *ngIf="pDiscount.invalid && pDiscount.touched ">
+
+            Product Discount can be of decimal only.
+          </div>
+
+
+          <div class="form-group">
+            <label >Specification</label>
+            <input type="text"   class="form-control" ngModel name="productSpecification"  placeholder="Product Specification">
+           
+          </div>
+        
+       <div style="margin: auto; text-align: center;">
+        <button [disabled]="product.invalid" style="width: 35%;" type="submit" class="btn btn-success">Add Product</button>
+       </div>
+       
+       
+      </form>
+     
+</div>

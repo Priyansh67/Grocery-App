@@ -1,0 +1,147 @@
+<!-- <div class="navbar navbar-expand-lg navbar-light bg-light " style="border-radius: 5px;" >
+    <form #search="ngForm" (ngSubmit)="searchProduct(search.value)" class="form-inline" style="width :70%;">
+     <input required name="searchText" ngModel class="form-control bg-outline-dark" style="width: 60%; border-radius: 50px;"  type="text" placeholder="Search">
+     <button class="btn text-light" style="background-color: #26a541" type="submit">Search</button>
+   </form>
+ 
+   <select class="form-control" style="width: 30%;" #category (change)="categorySelected(category.value)" id="">
+       <option>Select Category</option>
+   <option *ngFor="let cat of categoryList">{{cat.categoryName}}</option>
+    
+   </select>
+ 
+ </div> -->
+
+
+ <div *ngIf="!categoryproductList && !searchProductList">
+
+
+<div class="row">
+
+<div class="col-sm-11 col-md-11 col-lg-3 product" *ngFor="let product of productsList">
+   
+<div class=" card text-center" >
+    <div class="card-header fw-bold fs-5 text-success">
+       Category : {{product.productCategory}}
+    </div>
+    
+    <div class="overflow-hidden d-flex justify-content-center align-items-center">
+        <img style="width: 100px; height: 100px; margin-top: 10px;" src={{product.productImage}} alt="" class="card-img-top">
+
+    </div>
+
+    <div class="card-body">
+        <h4 class="card-title title">Name : {{product.productName}}</h4>
+        <h5 class="card-subtitle my-2 text-primary"> Quantity : {{product.productQuantity}} </h5>
+        <p class="card-text description">Description : {{product.productDescription}}</p>
+       
+    </div>
+
+    
+    <div class="card-body">
+        <h3 class=" card-subtitle text-primary">Price ₹ {{product.productPrice}}</h3>
+        <span class=" card-subtitle text-primary">Discount ₹ {{product.productDiscount}}</span>
+        <p class="card-title text-success"> Price after Discount : ₹ {{product.productPrice-product.productDiscount}}</p>
+    </div>
+
+    <div class="card-footer d-grip gap-2">
+        <button class="btn btn-success" style="margin-right: 30px;" routerLink="/seller-update-product/{{product.id}}" type="button">Edit</button>
+        <button class="btn btn-danger" (click)="deleteProduct(product.id)" type="button">Delete</button>
+    </div>
+</div>
+
+</div>
+</div>
+
+</div>
+
+<div *ngIf="categoryproductList">
+    <div class="container" style="margin-top: 30px; text-align: center;">
+        <span style="text-align: center; color: black;  font-size: 25px;">Items with Category {{selectedCategory}}</span>
+        <button class="btn btn-dark backToList"  (click)="getProductList()">Back To all Items</button>
+     </div>
+
+    <div class="row">
+    
+    <div class="col-sm-3 product" *ngFor="let product of categoryproductList">
+       
+    <div class=" card text-center" >
+        <div class="card-header fw-bold fs-5 text-success">
+           Category : {{product.productCategory}}
+        </div>
+        
+        <div class="overflow-hidden d-flex justify-content-center align-items-center">
+            <img style="width: 100px; height: 100px; margin-top: 10px;" src={{product.productImage}} alt="" class="card-img-top">
+    
+        </div>
+    
+        <div class="card-body">
+            <h4 class="card-title title">Name : {{product.productName}}</h4>
+            <h5 class="card-subtitle my-2 text-primary"> Quantity : {{product.productQuantity}} </h5>
+            <p class="card-text description">Description : {{product.productDescription}}</p>
+           
+        </div>
+    
+        
+        <div class="card-body">
+            <h3 class=" card-subtitle text-primary">Price ₹ {{product.productPrice}}</h3>
+            <span class=" card-subtitle text-primary">Discount ₹ {{product.productDiscount}}</span>
+            <p class="card-title text-success"> Price after Discount : ₹ {{product.productPrice-product.productDiscount}}</p>
+        </div>
+    
+        <div class="card-footer d-grip gap-2">
+            <button class="btn btn-outline-success" style="margin-right: 30px;" routerLink="/seller-update-product/{{product.id}}" type="button">Edit</button>
+            <button class="btn btn-outline-danger" (click)="deleteProduct(product.id)" type="button">Delete</button>
+        </div>
+    </div>
+    
+    </div>
+    </div>
+    
+    </div>
+
+
+    <div *ngIf="searchProductList">
+
+        <div class="container" style="margin-top: 2%; text-align: center;">
+            <span style="text-align: center; color: black; font-size: 25px;">Your Search Items here</span> 
+            <button class="btn btn-dark backToList"    (click)="getProductList()">Back To all Items</button>
+         </div>
+        <div class="row">
+        
+        <div class="col-sm-3 product" *ngFor="let product of searchProductList">
+           
+        <div class=" card text-center" >
+            <div class="card-header fw-bold fs-5 text-success">
+               Category : {{product.productCategory}}
+            </div>
+            
+            <div class="overflow-hidden d-flex justify-content-center align-items-center">
+                <img style="width: 100px; height: 100px; margin-top: 10px;" src={{product.productImage}} alt="" class="card-img-top">
+        
+            </div>
+        
+            <div class="card-body">
+                <h4 class="card-title title">Name : {{product.productName}}</h4>
+                <h5 class="card-subtitle my-2 text-primary"> Quantity : {{product.productQuantity}} </h5>
+                <p class="card-text description">Description : {{product.productDescription}}</p>
+               
+            </div>
+        
+            
+            <div class="card-body">
+                <h3 class=" card-subtitle text-primary">Price ₹ {{product.productPrice}}</h3>
+                <span class=" card-subtitle text-primary">Discount ₹ {{product.productDiscount}}</span>
+                <p class="card-title text-success"> Price after Discount : ₹ {{product.productPrice-product.productDiscount}}</p>
+            </div>
+        
+            <div class="card-footer d-grip gap-2">
+                <button class="btn btn-outline-success" style="margin-right: 30px;" routerLink="/seller-update-product/{{product.id}}" type="button">Edit</button>
+                <button class="btn btn-outline-danger" (click)="deleteProduct(product.id)" type="button">Delete</button>
+            </div>
+        </div>
+        
+        </div>
+        </div>
+        
+        </div>

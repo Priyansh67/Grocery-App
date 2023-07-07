@@ -1,0 +1,45 @@
+
+
+<div  *ngFor="let order of orderList">
+
+    <div class="card m-3 mt-5">
+        <div class="card-header">
+            <h4 class="text-success" style="text-align: center;">Delivered</h4>
+
+        </div>
+
+        <div class="row">
+            <div class="col-lg-3 center-noborder">
+                 <div style="margin-left: 40px;">
+                    <p>Ordered On : {{order.date}} </p>
+                    <p class="text-success">Delivered On : {{order.date}} </p>
+                    <p class="text-success">Amount : ₹ {{order.amount}} </p>
+                 </div>
+                
+            </div>
+            <div class="col-lg-9">  <div class="card-body " >
+                <h3 class="card-title" style="text-align: center;"> Products</h3>
+              </div>
+    
+              <div class="card-body" style="margin-top: -30px; border: 0px solid green;">
+                <div class="row" style="overflow-y: scroll; height: 300px;">
+                    <div class="col-lg-3" style="border: 0px solid green; border-radius: 5px; margin: 10px;" *ngFor="let product of order.products">
+                    <div class="card">
+                        <div class="card-header"> <img src={{product.product.productImage}} style="width: 100px; height: 100px;" alt=""></div>
+                    </div>
+                    <div class="card-body">
+                        <p>{{product.product.productName}}</p>
+                        <p>Items {{product.productQuantity}}</p>
+                    </div>
+                       
+                      
+                    </div>
+                </div>
+               
+              </div></div>
+        </div>
+
+      
+    </div>
+</div>
+

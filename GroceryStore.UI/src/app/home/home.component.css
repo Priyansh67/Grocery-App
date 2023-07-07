@@ -1,0 +1,15 @@
+.product{
+    margin: 15px;
+    padding: 30px;
+    min-width: 400px;
+}
+
+.price{
+    -webkit-text-decoration-line: line-through; /* Safari */
+   text-decoration-line: line-through; 
+}
+
+/* body{
+    background-color: #213555;
+} */
+

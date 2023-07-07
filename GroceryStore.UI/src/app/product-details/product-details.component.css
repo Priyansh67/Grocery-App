@@ -1,0 +1,16 @@
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  p-details{
+    overflow-y: scroll; height: 400px;
+  }
+
+  @media only screen and (max-width: 850px){
+  
+    p-details{
+      overflow-y: scroll; height: 400px;
+    }
+  }
+

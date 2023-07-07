@@ -1,0 +1,204 @@
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\appsettings.json
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.exe
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.deps.json
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.runtimeconfig.json
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.pdb
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.AssemblyInfo.cs
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.GroceryStore.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.build.GroceryStore.PresentationLayer.props
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GroceryStore.PresentationLayer.props
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GroceryStore.PresentationLayer.props
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\scopedcss\bundle\GroceryStore.PresentationLayer.styles.css
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.csproj.CopyComplete
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\refint\GroceryStore.PresentationLayer.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.pdb
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.genruntimeconfig.cache
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\ref\GroceryStore.PresentationLayer.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+C:\Users\rohitsahu\Projects\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\appsettings.json
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.exe
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.deps.json
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.runtimeconfig.json
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.pdb
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.AssemblyInfo.cs
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.GroceryStore.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.build.GroceryStore.PresentationLayer.props
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GroceryStore.PresentationLayer.props
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GroceryStore.PresentationLayer.props
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\scopedcss\bundle\GroceryStore.PresentationLayer.styles.css
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.csproj.CopyComplete
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\refint\GroceryStore.PresentationLayer.dll
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.pdb
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.genruntimeconfig.cache
+C:\Users\priyanshnamdev\Downloads\Final test deplo (1)\Final test deplo\APi mark2\GroceryStore.PresentationLayer\obj\Debug\net6.0\ref\GroceryStore.PresentationLayer.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.AssemblyInfo.cs
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\refint\GroceryStore.PresentationLayer.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.pdb
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\appsettings.json
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.exe
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.deps.json
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.runtimeconfig.json
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\GroceryStore.PresentationLayer.pdb
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.GroceryStore.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.build.GroceryStore.PresentationLayer.props
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GroceryStore.PresentationLayer.props
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GroceryStore.PresentationLayer.props
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\scopedcss\bundle\GroceryStore.PresentationLayer.styles.css
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.csproj.CopyComplete
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\GroceryStore.PresentationLayer.genruntimeconfig.cache
+C:\Users\priyanshnamdev\Documents\Code\GroceryStore-Mark-V\GroceryStore.API\GroceryStore.PresentationLayer\obj\Debug\net6.0\ref\GroceryStore.PresentationLayer.dll

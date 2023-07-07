@@ -1,0 +1,51 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'ngx-toastr/toastr';
+
+
+body{
+    font-family: sans-serif;
+   
+}
+
+.center {
+    border: 2px solid;
+    margin: auto;
+    width: 40%;
+    padding: 20px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  }
+
+  @media only screen and (max-width: 850px) {
+.center{
+    border: 2px solid;
+    margin: auto;
+    width: 90%;
+    padding: 20px;
+    margin-top: 10%;
+}
+  }
+
+
+
+  
+.custom-container{
+    width: 50%;
+   
+    margin-top: 1%;
+    border: solid 2px black;
+    padding: 20px;
+    margin-bottom: 10px;
+
+}
+
+.invalidInput{
+color: red;
+font-size: 12px;
+margin: 10px;
+}
+
+.center-noborder{
+  width: 50%;
+  margin: auto;
+}

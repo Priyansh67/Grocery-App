@@ -1,0 +1,109 @@
+<div *ngIf="!showLoginForm">
+    <h3 style="text-align: center;  margin-top: 2%;">User Sign Up</h3>
+
+    <div class="center custom-cls">
+       
+        <form #userSignUp="ngForm" (ngSubmit)="signUp(userSignUp.value)">
+            <div class="form-group">
+                <label >Name</label>
+                <input type="text" class="form-control"  required #signUpname="ngModel" pattern="^[a-zA-Z]+ [a-zA-Z]+$"  ngModel name="name"  placeholder="Enter Name">
+               
+              </div>
+              <div class="invalidInput" *ngIf="signUpname.invalid && signUpname.touched ">
+
+                Please enter a valid name with your Last Name</div>
+            <div class="form-group">
+              <label >Email address</label>
+              <input type="email" class="form-control" #signUpEmail="ngModel"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required ngModel name="email"  placeholder="Enter email">
+             
+            </div>
+            <div class="invalidInput" *ngIf="signUpEmail.invalid && signUpEmail.touched ">Please enter a valid Email</div>
+            
+            <div class="form-group">
+                <label >Phone Number</label>
+                <input type="text" class="form-control" required #signUpPhone="ngModel" ngModel name="number"  placeholder="Enter phone number">
+               
+              </div>
+
+              <div class="invalidInput" *ngIf="signUpPhone.invalid && signUpPhone.touched ">
+
+                Please enter a valid Phone Number</div>
+            <div class="form-group">
+              <label >Password</label>
+              <input type="password" class="form-control" pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{8,}$" #signUpPassword="ngModel" required name="password" ngModel  placeholder="Password">
+            </div>
+            <div class="invalidInput" *ngIf="signUpPassword.invalid && signUpPassword.touched ">
+
+              Please enter password with Minimum length of 8 and it must have at-least 1 special
+              character, 1 number and 1 alphabet</div>
+
+              <div class="form-group">
+                <label>Confirm Password</label>
+                <input type="password" class="form-control" #signUpConfirmPassword="ngModel" required name="confirmpassword"
+                  ngModel placeholder="Confirm password">
+              </div>
+           <div style="margin: auto; width: 100%; text-align: center;">
+            <button [disabled]="userSignUp.invalid" type="submit"  class="btn btn-success">Register Now</button>
+            <p class="text-center text-muted mt-3 mb-0">Already have an account? 
+              <a class="fw-bold text-body" (click)="openLogin()"><u style="cursor: pointer;">Login</u></a>
+          </p>
+            
+           </div>
+           
+           
+          </form>
+          <div>
+            
+          </div>
+
+         
+         
+    </div>
+  
+    
+    
+    
+  </div>
+  
+  <!-- login-->
+  
+  <div *ngIf="showLoginForm">
+    <h3 style="text-align: center; margin-top: 2%; ">User Log In</h3>
+    <div class="center custom-cls">
+       
+      <form #userlogIn="ngForm" (ngSubmit)="logIn(userlogIn.value)">
+         
+          <div class="form-group">
+            <label >Email address</label>
+            <input type="email" class="form-control" #email="ngModel"  ngModel name="Email"   pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required placeholder="Enter email">
+           
+          </div>
+          <div class="invalidInput" *ngIf="email.invalid && email.touched ">
+
+            Please enter a valid Mail</div>
+         
+          <div class="form-group">
+            <label >Password</label>
+            <input type="password" #password="ngModel" class="form-control" name="Password" ngModel required  placeholder="Password">
+          </div>
+
+          <div class="invalidInput" *ngIf="password.invalid && password.touched ">
+
+            Password is required</div>
+
+            <div style="margin: auto; width: 100%; text-align: center;" >
+              <button  [disabled]="userlogIn.invalid" type="submit" class="btn btn-success">Login</button>
+              <p class="text-center text-muted mt-3 mb-0">Don't have an account? 
+                <a class="fw-bold text-body" (click)="openLogin()"><u style="cursor: pointer;">Sign Up</u></a>
+            </p>
+            </div>
+         
+         
+          
+        </form>
+
+
+  
+  </div>
+  </div>
+  

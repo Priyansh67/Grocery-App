@@ -1,0 +1,9 @@
+Step 1 : Open GroceryStore schema file in SQL server Management Studio and Execute it to create database.
+
+Step 2: Open GroceryStore.PresentationLayer.sln file present in /API/GroceryStore.PresentationLayer in Visual Studio  and run the API (make sure the API is running on the port http://localhost:5257/)
+
+Step 3: Open Terminal in Directory GroceeryStore.UI and run 'npm install' to install all the node packages.
+
+Step 4: Run 'ng serve' in Directory GroceeryStore.UI to run the application (make sure the App is running on the port http://localhost:4200/).
+
+Step 5: You can run 'dotnet run seeddata' to seed admin data into the database.
